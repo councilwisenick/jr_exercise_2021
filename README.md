@@ -23,6 +23,6 @@ Simple programming exercise for junior developer candidates
     <Name>			
       <Quantity>		<UnitPrice>		<Total inc. Tax>
     ... for all receipt items
-  Total:	<Total inc. Tax>
+  Total: <Total inc. Tax>
   GST:	<TaxTotal>
 ```
