@@ -16,13 +16,13 @@ Simple programming exercise for junior developer candidates
 
   Print a receipt to the console with the following format:
 ```
-  Receipt:
-    Items:
-    <Name>
+Receipt:
+   Items:
+      <Name>
       <Quantity>		<UnitPrice>		<Total inc. Tax>
-    <Name>			
+      <Name>			
       <Quantity>		<UnitPrice>		<Total inc. Tax>
-    ... for all receipt items
-  Total: <Total inc. Tax>
-  GST:	<TaxTotal>
+      ... for all receipt items
+   Total:   <Total inc. Tax>
+   GST:     <TaxTotal>
 ```
