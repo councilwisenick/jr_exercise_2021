@@ -15,7 +15,7 @@ Simple programming exercise for junior developer candidates
   Expected Output:
 
   Print a receipt to the console with the following format:
-
+`
   Receipt:
     Items:
     <Name>
@@ -25,3 +25,4 @@ Simple programming exercise for junior developer candidates
     ... for all receipt items
   Total:	<Total inc. Tax>
   GST:	<TaxTotal>
+`
